@@ -1,0 +1,215 @@
+,Rating,Company Name,Headquarters,Size,Founded,Type of ownership,Sector,Revenue,Location_State,Cleaned Job Title,Predicted Min Salary,Predicted Max Salary,Predicted Avg Salary
+0,3.9,Mars,VA,10000+ employees,1911.0,Company - Private,Manufacturing,$10+ billion (USD),Oregon,Data Scientist,140.26283,110.701256,124.09292
+1,4.1,Amount,IL,201 to 500 employees,2015.0,Company - Private,Information Technology,Unknown / Non-Applicable,IL,Data Scientist,126.19624,105.85215,122.232124
+2,5.0,Brightside,CA,51 to 200 employees,2017.0,Company - Private,Finance,Unknown / Non-Applicable,AZ,Other Analyst,121.89137,107.08271,117.670555
+3,4.5,Anson McCade,United Kingdom,51 to 200 employees,2000.0,Company - Private,Business Services,$1 to $5 million (USD),IL,Data Engineer,137.083,112.29722,122.86277
+4,3.1,Amica Mutual,RI,1001 to 5000 employees,1907.0,Company - Private,Insurance,$1 to $2 billion (USD),RI,Other Analyst,134.84474,113.45248,122.581184
+5,4.5,Blue Owl,CA,51 to 200 employees,2016.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,Data Scientist,124.58244,107.08271,117.670555
+6,2.2,Great-Circle Technologies,VA,1 to 50 employees,2000.0,Company - Private,Information Technology,$1 to $5 million (USD),VA,Data Scientist,134.97768,113.81786,123.020515
+7,4.9,Avlino,NJ,1 to 50 employees,2013.0,Company - Private,Information Technology,Less than $1 million (USD),New Jersey,Data Scientist,121.89137,107.08271,117.670555
+8,4.9,Kodiak Robotics,CA,51 to 200 employees,2018.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,ML Engineer,121.89137,107.08271,117.670555
+9,4.7,ThousandEyes,CA,201 to 500 employees,2010.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,Data Engineer,121.89137,107.08271,117.670555
+10,4.0,Peterson Technology Partners,IL,201 to 500 employees,1997.0,Contract,Information Technology,$25 to $50 million (USD),TX,Data Scientist,138.6968,111.06664,124.53225
+11,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+12,3.770932754880694,Bridgerock Data,FL,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,FL,Data Scientist,138.6968,111.06664,124.53225
+13,4.5,NuWave Solutions,VA,51 to 200 employees,1999.0,Company - Private,Information Technology,$5 to $10 million (USD),Virginia,Data Engineer,137.083,112.29722,122.86277
+14,3.770932754880694,LEAH Labs,MN,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,MN,Other Scientist,138.6968,111.06664,124.53225
+15,4.9,Briq,CA,1 to 50 employees,2017.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,Data Scientist,121.89137,107.08271,117.670555
+16,3.770932754880694,Geomagical Labs,CA,1 to 50 employees,1996.0,Company - Private,Information Technology,Less than $1 million (USD),CA,Data Engineer,138.6968,111.06664,124.53225
+17,3.1,"Teaching Strategies, LLC",MD,51 to 200 employees,1988.0,Company - Private,Education,$50 to $100 million (USD),MD,Data Scientist,135.12361,113.81786,123.020515
+18,3.9,Mars,VA,10000+ employees,1911.0,Company - Private,Manufacturing,$10+ billion (USD),NJ,Data Scientist,140.26283,110.701256,124.09292
+19,3.6,My Job Tank,NY,51 to 200 employees,1996.0,Company - Private,Unknown,Unknown / Non-Applicable,CA,Data Scientist,134.06828,110.30418,128.05634
+20,3.8,Dynetics,AL,1001 to 5000 employees,1974.0,Company - Private,Aerospace & Defense,$100 to $500 million (USD),AL,Other Scientist,140.54173,111.06664,124.53225
+21,4.5,ShorePoint,DC,1 to 50 employees,2017.0,Company - Private,Information Technology,Unknown / Non-Applicable,VA,Data Analyst,124.58244,107.08271,117.670555
+22,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,MA,Other Scientist,125.55986,107.162056,122.232124
+23,4.0,Hygiena,CA,201 to 500 employees,1996.0,Company - Private,Biotech & Pharmaceuticals,$100 to $500 million (USD),CA,Data Engineer,138.6968,111.06664,124.53225
+24,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+25,4.1,"Insight Enterprises, Inc.",AZ,5001 to 10000 employees,1988.0,Company - Public,Information Technology,$5 to $10 billion (USD),TX,Data Analyst,138.6968,111.06664,124.53225
+26,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+27,4.4,"Volume Integration, LLC",VA,51 to 200 employees,2013.0,Company - Private,Aerospace & Defense,$10 to $25 million (USD),VA,Data Scientist,124.58244,107.08271,117.670555
+28,4.1,ManTech,VA,5001 to 10000 employees,1968.0,Company - Public,Business Services,$1 to $2 billion (USD),VA,Data Scientist,140.54173,111.06664,124.53225
+29,3.5,CACI International,VA,10000+ employees,1962.0,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),CO,Data Scientist,134.06828,112.6495,129.51312
+30,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Manager/Director,121.89137,107.08271,117.670555
+31,5.0,Hamilton Porter LLC,CA,1 to 50 employees,2019.0,Company - Public,Business Services,Unknown / Non-Applicable,NJ,Data Scientist,121.89137,107.08271,117.670555
+32,3.770932754880694,Seen by Indeed,TX,Unknown,1996.0,Company - Private,Unknown,Unknown / Non-Applicable,PA,Data Scientist,138.6968,111.06664,124.53225
+33,4.0,Peterson Technology Partners,IL,201 to 500 employees,1997.0,Contract,Information Technology,$25 to $50 million (USD),IL,Data Scientist,138.6968,111.06664,124.53225
+34,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,125.55986,107.162056,122.232124
+35,4.5,NuWave Solutions,VA,51 to 200 employees,1999.0,Company - Private,Information Technology,$5 to $10 million (USD),Virginia,Data Engineer,137.083,112.29722,122.86277
+36,5.0,Aptonet Inc,GA,201 to 500 employees,2004.0,Company - Private,Information Technology,Unknown / Non-Applicable,GA,Other Scientist,133.63074,113.147316,121.89745
+37,3.8,BioMarin Pharmaceutical,CA,1001 to 5000 employees,1997.0,Company - Public,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),CA,Other Analyst,138.6968,111.06664,124.53225
+38,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+39,4.4,OSI Engineering,CA,51 to 200 employees,2010.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Scientist,124.58244,107.08271,117.670555
+40,4.2,Octane,NY,51 to 200 employees,2014.0,Company - Private,Finance,Unknown / Non-Applicable,TX,Data Engineer,126.19624,105.85215,122.232124
+41,4.6,Greenwich Biosciences,CA,201 to 500 employees,2013.0,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+42,3.770932754880694,Decode_M,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Manager/Director,138.6968,111.06664,124.53225
+43,4.5,GSN Games,MA,201 to 500 employees,1999.0,Company - Private,Media,Unknown / Non-Applicable,CA,Data Scientist,137.083,112.29722,122.86277
+44,4.1,Redstream Technology,NY,1 to 50 employees,2007.0,Company - Private,Information Technology,$5 to $10 million (USD),GA,Data Engineer,125.55986,107.162056,122.232124
+45,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+46,3.9,Mars,VA,10000+ employees,1911.0,Company - Private,Manufacturing,$10+ billion (USD),Oregon,Data Scientist,140.26283,110.701256,124.09292
+47,4.3,Daugherty Business Solutions,MO,1001 to 5000 employees,1985.0,Company - Private,Information Technology,$100 to $500 million (USD),GA,Other Analyst,137.083,111.06664,124.53225
+48,4.4,"Volume Integration, LLC",VA,51 to 200 employees,2013.0,Company - Private,Aerospace & Defense,$10 to $25 million (USD),VA,Data Scientist,124.58244,107.08271,117.670555
+49,4.1,ManTech,VA,5001 to 10000 employees,1968.0,Company - Public,Business Services,$1 to $2 billion (USD),VA,Data Scientist,140.54173,111.06664,124.53225
+50,4.6,Blend360,NJ,51 to 200 employees,2002.0,Company - Private,Business Services,Unknown / Non-Applicable,MD,Intern/Junior,133.63074,113.147316,124.35163
+51,3.5,CACI International,VA,10000+ employees,1962.0,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),CO,Data Scientist,134.06828,112.6495,129.51312
+52,2.4,Calista,AK,1001 to 5000 employees,1996.0,Other Organization,Unknown,$100 to $500 million (USD),AK,Other Scientist,135.12361,113.81786,123.020515
+53,2.5,Sandhills Global,NE,1001 to 5000 employees,1978.0,Company - Private,Information Technology,$50 to $100 million (USD),NE,Other Analyst,135.12361,113.81786,123.020515
+54,3.8,Hire Resolve,AZ,1 to 50 employees,1996.0,Company - Private,Business Services,$500 million to $1 billion (USD),GA,Other Scientist,138.6968,111.06664,124.53225
+55,5.0,Genesis Research,NJ,1 to 50 employees,2009.0,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,NJ,Other Scientist,121.89137,107.08271,117.670555
+56,5.0,Hamilton Porter LLC,CA,1 to 50 employees,2019.0,Company - Public,Business Services,Unknown / Non-Applicable,NJ,Data Scientist,121.89137,107.08271,117.670555
+57,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Manager/Director,121.89137,107.08271,117.670555
+58,4.3,Service Express,MI,201 to 500 employees,1993.0,Company - Private,Information Technology,$100 to $500 million (USD),MI,Other Analyst,137.083,111.06664,124.53225
+59,4.5,Rose International,MO,501 to 1000 employees,1993.0,Company - Private,Business Services,$100 to $500 million (USD),MO,Data Scientist,137.083,112.29722,122.86277
+60,4.2,Clarity Insights,IL,201 to 500 employees,2008.0,Company - Private,Information Technology,Unknown / Non-Applicable,United States,Data Scientist,125.55986,107.162056,122.232124
+61,5.0,605,NY,51 to 200 employees,2016.0,Company - Private,Information Technology,Unknown / Non-Applicable,NY,Data Scientist,121.89137,107.08271,117.670555
+62,4.3,Daugherty Business Solutions,MO,1001 to 5000 employees,1985.0,Company - Private,Information Technology,$100 to $500 million (USD),MN,Other Analyst,137.083,111.06664,124.53225
+63,5.0,NS8,NV,51 to 200 employees,2016.0,Company - Private,Information Technology,$25 to $50 million (USD),CA,Data Scientist,121.89137,107.08271,117.670555
+64,4.6,"SmartNews, Inc.",CA,51 to 200 employees,2012.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,Data Scientist,121.89137,107.08271,117.670555
+65,3.6,Cambridge Trust Company,MA,201 to 500 employees,1890.0,Company - Public,Finance,$50 to $100 million (USD),MA,Data Engineer,133.78938,112.28413,129.0738
+66,3.7,Zylotech,MA,1 to 50 employees,2014.0,Company - Private,Information Technology,Unknown / Non-Applicable,MA,Data Engineer,126.19624,105.85215,125.172295
+67,3.6,Redapt,WA,201 to 500 employees,1996.0,Company - Private,Information Technology,$100 to $500 million (USD),WA,Other Analyst,134.06828,110.30418,128.05634
+68,4.7,Northpointe Bank,MI,501 to 1000 employees,1999.0,Company - Private,Finance,Unknown / Non-Applicable,MI,Other Analyst,133.63074,112.29722,122.86277
+69,3.770932754880694,Seen by Indeed,TX,Unknown,1996.0,Company - Private,Unknown,Unknown / Non-Applicable,PA,Data Scientist,138.6968,111.06664,124.53225
+70,4.0,Peterson Technology Partners,IL,201 to 500 employees,1997.0,Contract,Information Technology,$25 to $50 million (USD),IL,Data Scientist,138.6968,111.06664,124.53225
+71,3.770932754880694,PM2CM,CA,1 to 50 employees,1996.0,Private Practice / Firm,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,CA,Data Analyst,138.6968,111.06664,124.53225
+72,4.5,NuWave Solutions,VA,51 to 200 employees,1999.0,Company - Private,Information Technology,$5 to $10 million (USD),Virginia,Data Engineer,137.083,112.29722,122.86277
+73,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,125.55986,107.162056,122.232124
+74,5.0,Aptonet Inc,GA,201 to 500 employees,2004.0,Company - Private,Information Technology,Unknown / Non-Applicable,GA,Other Scientist,133.63074,113.147316,121.89745
+75,5.0,Freedman Healthcare,MA,1 to 50 employees,2005.0,Company - Private,Business Services,$1 to $5 million (USD),MA,Data Analyst,133.63074,108.39262,121.89745
+76,3.6,Randstad,GA,1001 to 5000 employees,1996.0,Subsidiary or Business Segment,Business Services,Unknown / Non-Applicable,CA,Data Scientist,134.06828,110.30418,128.05634
+77,4.2,CyberCoders,CA,201 to 500 employees,1999.0,Subsidiary or Business Segment,Business Services,$100 to $500 million (USD),VA,Data Scientist,138.6968,111.06664,124.53225
+78,4.3,McCarthy Building Co,MO,1001 to 5000 employees,1864.0,Company - Private,"Construction, Repair & Maintenance",$2 to $5 billion (USD),MO,Other Analyst,138.64903,110.701256,124.09292
+79,4.0,SciPlay,IA,201 to 500 employees,1998.0,Company - Public,Media,Unknown / Non-Applicable,TX,Data Engineer,138.6968,111.06664,124.53225
+80,3.8,BioMarin Pharmaceutical,CA,1001 to 5000 employees,1997.0,Company - Public,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),CA,Other Analyst,138.6968,111.06664,124.53225
+81,3.6,GovTech,Singapore,1001 to 5000 employees,2016.0,Government,Government,Unknown / Non-Applicable,CA,Data Scientist,122.32892,105.08968,122.86414
+82,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+83,4.4,OSI Engineering,CA,51 to 200 employees,2010.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Analyst,124.58244,107.08271,117.670555
+84,3.770932754880694,Monte Rosa Therapeutics,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,MA,Other Scientist,138.6968,111.06664,124.53225
+85,4.4,OSI Engineering,CA,51 to 200 employees,2010.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Scientist,124.58244,107.08271,117.670555
+86,4.2,Octane,NY,51 to 200 employees,2014.0,Company - Private,Finance,Unknown / Non-Applicable,TX,Data Engineer,126.19624,105.85215,122.232124
+87,4.6,Greenwich Biosciences,CA,201 to 500 employees,2013.0,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+88,3.3,FrankCrum Staffing,FL,51 to 200 employees,1981.0,Company - Private,Business Services,$5 to $10 million (USD),FL,Manager/Director,135.12361,113.81786,123.020515
+89,3.770932754880694,Decode_M,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Manager/Director,138.6968,111.06664,124.53225
+90,4.5,GSN Games,MA,201 to 500 employees,1999.0,Company - Private,Media,Unknown / Non-Applicable,CA,Data Scientist,137.083,112.29722,122.86277
+91,4.1,Redstream Technology,NY,1 to 50 employees,2007.0,Company - Private,Information Technology,$5 to $10 million (USD),GA,Data Engineer,125.55986,107.162056,122.232124
+92,3.1,"Qualifacts Systems, Inc.",TN,201 to 500 employees,2002.0,Company - Private,Information Technology,$25 to $50 million (USD),TN,Other Analyst,135.12361,114.66798,124.50938
+93,3.7,CALIBRE Systems,VA,501 to 1000 employees,1989.0,Company - Private,Information Technology,$100 to $500 million (USD),VA,Other Analyst,138.6968,111.06664,124.53225
+94,2.7,Sterling National Bank,NY,1001 to 5000 employees,1966.0,Company - Public,Finance,$10+ billion (USD),NY,Manager/Director,135.12361,113.81786,123.020515
+95,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+96,4.1,Amount,IL,201 to 500 employees,2015.0,Company - Private,Information Technology,Unknown / Non-Applicable,IL,Data Scientist,126.19624,105.85215,122.232124
+97,4.1,NJF Global Holdings,United Kingdom,51 to 200 employees,2003.0,Company - Private,Business Services,$10 to $25 million (USD),NY,Data Engineer,138.6968,111.916756,123.56693
+98,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Manager/Director,121.89137,107.08271,117.670555
+99,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+100,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+101,2.9,Pharmavite,CA,1001 to 5000 employees,1971.0,Company - Private,Manufacturing,$1 to $2 billion (USD),CA,Other Scientist,135.12361,113.81786,123.020515
+102,4.8,IGNW,OR,201 to 500 employees,2015.0,Company - Private,Information Technology,$25 to $50 million (USD),TX,Data Engineer,121.89137,107.08271,117.670555
+103,4.6,"SmartNews, Inc.",CA,51 to 200 employees,2012.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,ML Engineer,121.89137,107.08271,117.670555
+104,4.3,h2o.ai,CA,201 to 500 employees,2011.0,Company - Private,Information Technology,Unknown / Non-Applicable,NY,ML Engineer,124.58244,105.85215,122.232124
+105,4.2,Octane,NY,51 to 200 employees,2014.0,Company - Private,Finance,Unknown / Non-Applicable,NY,Data Engineer,126.19624,105.85215,122.232124
+106,4.8,Health Union,PA,51 to 200 employees,2009.0,Company - Private,Media,Unknown / Non-Applicable,PA,Manager/Director,121.89137,107.08271,117.670555
+107,3.6,Shine Systems,VA,51 to 200 employees,2008.0,Company - Private,Business Services,Unknown / Non-Applicable,VA,Other Scientist,121.69252,106.39959,122.86414
+108,4.0,"Meridian Technologies, Inc",MI,Unknown,1996.0,Unknown,Unknown,Unknown / Non-Applicable,WA,Data Engineer,138.6968,111.06664,124.53225
+109,3.4,Orange Coast Memorial Medical Center,CA,10000+ employees,2005.0,Nonprofit Organization,Health Care,$2 to $5 billion (USD),CA,Other Scientist,135.12361,106.39959,127.09101
+110,4.7,"Collinwood Technology Partners, LLC",IL,51 to 200 employees,2014.0,Company - Private,Information Technology,$1 to $5 million (USD),IL,Data Engineer,121.89137,107.08271,117.670555
+111,4.4,"Homology Medicines, Inc.",MA,51 to 200 employees,1996.0,Company - Public,Unknown,Unknown / Non-Applicable,MA,Other Scientist,137.083,112.29722,122.86277
+112,3.7,FHLBank Pittsburgh,PA,201 to 500 employees,1932.0,Company - Private,Finance,$1 to $2 billion (USD),PA,Data Analyst,140.54173,111.06664,124.53225
+113,3.7,Sanofi,France,10000+ employees,1973.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Manager/Director,140.54173,111.06664,124.53225
+114,2.6,Software Engineering Institute,PA,501 to 1000 employees,1984.0,College / University,Education,Unknown / Non-Applicable,PA,Other Scientist,135.12361,113.81786,123.020515
+115,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,MA,Other Scientist,125.55986,107.162056,122.232124
+116,3.770932754880694,OneThree Biotech,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Data Engineer,138.6968,111.06664,124.53225
+117,5.0,Senti Biosciences,CA,51 to 200 employees,2016.0,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+118,4.0,SciPlay,IA,201 to 500 employees,1998.0,Company - Public,Media,Unknown / Non-Applicable,TX,Data Engineer,138.6968,111.06664,124.53225
+119,3.6,Delphi-US,RI,1 to 50 employees,1996.0,Company - Private,Business Services,Less than $1 million (USD),NY,Data Scientist,134.06828,110.30418,128.05634
+120,3.4,Astreya,CA,1001 to 5000 employees,2001.0,Company - Private,Information Technology,$50 to $100 million (USD),CA,Data Engineer,135.12361,110.30418,129.5452
+121,3.8,BioMarin Pharmaceutical,CA,1001 to 5000 employees,1997.0,Company - Public,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),CA,Other Analyst,138.6968,111.06664,124.53225
+122,3.6,GovTech,Singapore,1001 to 5000 employees,2016.0,Government,Government,Unknown / Non-Applicable,CA,Data Scientist,122.32892,105.08968,122.86414
+123,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+124,3.9,Cuboid IT Solutions,CA,501 to 1000 employees,1996.0,Company - Private,Information Technology,$25 to $50 million (USD),AZ,Data Scientist,138.6968,111.06664,124.53225
+125,3.9,"Pyramid Consulting, Inc.",GA,1001 to 5000 employees,1996.0,Company - Private,Information Technology,$100 to $500 million (USD),NJ,Data Scientist,138.6968,111.06664,124.53225
+126,4.4,OSI Engineering,CA,51 to 200 employees,2010.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Analyst,124.58244,107.08271,117.670555
+127,3.770932754880694,Monte Rosa Therapeutics,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,MA,Other Scientist,138.6968,111.06664,124.53225
+128,4.4,Watchful,FL,1 to 50 employees,1996.0,Company - Private,Business Services,Unknown / Non-Applicable,CA,Data Scientist,137.083,112.29722,122.86277
+129,5.0,Quality Consulting Group,PR,51 to 200 employees,2011.0,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),PR,Other Scientist,121.89137,107.08271,117.670555
+130,4.4,OSI Engineering,CA,51 to 200 employees,2010.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Scientist,124.58244,107.08271,117.670555
+131,2.9,Healthfirst,NY,1001 to 5000 employees,1993.0,Nonprofit Organization,Insurance,Unknown / Non-Applicable,NY,Data Scientist,135.12361,113.81786,123.020515
+132,4.2,Octane,NY,51 to 200 employees,2014.0,Company - Private,Finance,Unknown / Non-Applicable,TX,Data Engineer,126.19624,105.85215,122.232124
+133,3.770932754880694,CompuForce,NY,Unknown,1996.0,Company - Private,Unknown,Unknown / Non-Applicable,NY,Data Scientist,138.6968,111.06664,124.53225
+134,4.6,Greenwich Biosciences,CA,201 to 500 employees,2013.0,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+135,3.770932754880694,WeRide.ai,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,CA,Data Scientist,138.6968,111.06664,124.53225
+136,3.3,FrankCrum Staffing,FL,51 to 200 employees,1981.0,Company - Private,Business Services,$5 to $10 million (USD),FL,Manager/Director,135.12361,113.81786,123.020515
+137,3.770932754880694,ODSC Hiring Partner,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,NY,Data Scientist,138.6968,111.06664,124.53225
+138,3.770932754880694,Decode_M,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Manager/Director,138.6968,111.06664,124.53225
+139,3.770932754880694,Point72 Ventures,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,CA,Data Scientist,138.6968,111.06664,124.53225
+140,4.5,GSN Games,MA,201 to 500 employees,1999.0,Company - Private,Media,Unknown / Non-Applicable,CA,Data Scientist,137.083,112.29722,122.86277
+141,3.1,"Qualifacts Systems, Inc.",TN,201 to 500 employees,2002.0,Company - Private,Information Technology,$25 to $50 million (USD),TN,Other Analyst,135.12361,114.66798,124.50938
+142,4.1,Redstream Technology,NY,1 to 50 employees,2007.0,Company - Private,Information Technology,$5 to $10 million (USD),GA,Data Engineer,125.55986,107.162056,122.232124
+143,3.7,CALIBRE Systems,VA,501 to 1000 employees,1989.0,Company - Private,Information Technology,$100 to $500 million (USD),VA,Other Analyst,138.6968,111.06664,124.53225
+144,2.7,Sterling National Bank,NY,1001 to 5000 employees,1966.0,Company - Public,Finance,$10+ billion (USD),NY,Manager/Director,135.12361,113.81786,123.020515
+145,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+146,2.3,UPM Pharmaceutical Inc,TN,51 to 200 employees,1996.0,Contract,Unknown,Unknown / Non-Applicable,TN,Other Scientist,135.12361,113.81786,123.020515
+147,4.1,NJF Global Holdings,United Kingdom,51 to 200 employees,2003.0,Company - Private,Business Services,$10 to $25 million (USD),NY,Data Engineer,138.6968,111.916756,123.56693
+148,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Manager/Director,121.89137,107.08271,117.670555
+149,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+150,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+151,2.9,Pharmavite,CA,1001 to 5000 employees,1971.0,Company - Private,Manufacturing,$1 to $2 billion (USD),CA,Other Scientist,135.12361,113.81786,123.020515
+152,4.8,IGNW,OR,201 to 500 employees,2015.0,Company - Private,Information Technology,$25 to $50 million (USD),TX,Data Engineer,121.89137,107.08271,117.670555
+153,4.6,"SmartNews, Inc.",CA,51 to 200 employees,2012.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,ML Engineer,121.89137,107.08271,117.670555
+154,4.3,h2o.ai,CA,201 to 500 employees,2011.0,Company - Private,Information Technology,Unknown / Non-Applicable,NY,ML Engineer,124.58244,105.85215,122.232124
+155,4.2,Octane,NY,51 to 200 employees,2014.0,Company - Private,Finance,Unknown / Non-Applicable,NY,Data Engineer,126.19624,105.85215,122.232124
+156,4.8,Health Union,PA,51 to 200 employees,2009.0,Company - Private,Media,Unknown / Non-Applicable,PA,Manager/Director,121.89137,107.08271,117.670555
+157,3.6,Shine Systems,VA,51 to 200 employees,2008.0,Company - Private,Business Services,Unknown / Non-Applicable,VA,Other Scientist,121.69252,106.39959,122.86414
+158,3.5,PACT Pharma,CA,51 to 200 employees,2016.0,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,122.32892,105.08968,122.86414
+159,4.7,Job Juncture,TX,1001 to 5000 employees,1992.0,Company - Private,Business Services,Less than $1 million (USD),MA,ML Engineer,133.63074,112.29722,122.86277
+160,3.4,Orange Coast Memorial Medical Center,CA,10000+ employees,2005.0,Nonprofit Organization,Health Care,$2 to $5 billion (USD),CA,Other Scientist,135.12361,106.39959,127.09101
+161,4.0,"Meridian Technologies, Inc",MI,Unknown,1996.0,Unknown,Unknown,Unknown / Non-Applicable,WA,Data Engineer,138.6968,111.06664,124.53225
+162,4.5,Blue Owl,CA,51 to 200 employees,2016.0,Company - Private,Information Technology,Unknown / Non-Applicable,CA,Data Scientist,124.58244,107.08271,117.670555
+163,4.4,"Volume Integration, LLC",VA,51 to 200 employees,2013.0,Company - Private,Aerospace & Defense,$10 to $25 million (USD),VA,Data Scientist,124.58244,107.08271,117.670555
+164,4.7,"Collinwood Technology Partners, LLC",IL,51 to 200 employees,2014.0,Company - Private,Information Technology,$1 to $5 million (USD),IL,Data Engineer,121.89137,107.08271,117.670555
+165,3.7,FHLBank Pittsburgh,PA,201 to 500 employees,1932.0,Company - Private,Finance,$1 to $2 billion (USD),PA,Data Analyst,140.54173,111.06664,124.53225
+166,4.4,"Homology Medicines, Inc.",MA,51 to 200 employees,1996.0,Company - Public,Unknown,Unknown / Non-Applicable,MA,Other Scientist,137.083,112.29722,122.86277
+167,3.7,Sanofi,France,10000+ employees,1973.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Manager/Director,140.54173,111.06664,124.53225
+168,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+169,2.6,Software Engineering Institute,PA,501 to 1000 employees,1984.0,College / University,Education,Unknown / Non-Applicable,PA,Other Scientist,135.12361,113.81786,123.020515
+170,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,MA,Other Scientist,125.55986,107.162056,122.232124
+171,4.9,Avlino,NJ,1 to 50 employees,2013.0,Company - Private,Information Technology,Less than $1 million (USD),New Jersey,Data Scientist,121.89137,107.08271,117.670555
+172,3.770932754880694,OneThree Biotech,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Data Engineer,138.6968,111.06664,124.53225
+173,3.2,Macy's,NY,10000+ employees,1858.0,Company - Public,Retail,$10+ billion (USD),GA,Manager/Director,134.84474,113.45248,122.581184
+174,4.4,SafeGraph,CA,1 to 50 employees,2016.0,Company - Private,Information Technology,$10 to $25 million (USD),NY,Manager/Director,124.58244,107.08271,117.670555
+175,5.0,Senti Biosciences,CA,51 to 200 employees,2016.0,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+176,3.8,Oportun. Inc,CA,1001 to 5000 employees,2005.0,Company - Public,Finance,Unknown / Non-Applicable,Maryland,Manager/Director,138.6968,107.162056,123.56693
+177,4.1,Apellis Pharmaceuticals,MA,201 to 500 employees,2008.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,MA,Other Scientist,125.55986,107.162056,122.232124
+178,3.770932754880694,WeRide.ai,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,CA,Data Scientist,138.6968,111.06664,124.53225
+179,4.6,Greenwich Biosciences,CA,201 to 500 employees,2013.0,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Other Scientist,121.89137,107.08271,117.670555
+180,3.3,FrankCrum Staffing,FL,51 to 200 employees,1981.0,Company - Private,Business Services,$5 to $10 million (USD),FL,Manager/Director,135.12361,113.81786,123.020515
+181,3.770932754880694,ODSC Hiring Partner,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,NY,Data Scientist,138.6968,111.06664,124.53225
+182,4.0,Two95 International Inc.,NJ,1 to 50 employees,1996.0,Company - Private,Business Services,$1 to $5 million (USD),IL,Data Scientist,138.6968,111.06664,124.53225
+183,3.770932754880694,Decode_M,NY,1 to 50 employees,1996.0,Unknown,Unknown,Unknown / Non-Applicable,NY,Manager/Director,138.6968,111.06664,124.53225
+184,4.4,Vbeyond Corporation,NJ,201 to 500 employees,2006.0,Company - Private,Business Services,$5 to $10 million (USD),WA,Data Scientist,124.16191,108.39262,117.670555
+185,3.770932754880694,Point72 Ventures,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,CA,Data Scientist,138.6968,111.06664,124.53225
+186,3.9,Cuboid IT Solutions,CA,501 to 1000 employees,1996.0,Company - Private,Information Technology,$25 to $50 million (USD),AZ,Data Scientist,138.6968,111.06664,124.53225
+187,3.770932754880694,Adyen N.V.,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,NY,Data Scientist,138.6968,111.06664,124.53225
+188,3.5,Technosoft Corporation,MI,1001 to 5000 employees,1996.0,Company - Private,Information Technology,$100 to $500 million (USD),MI,Data Scientist,134.06828,110.30418,128.05634
+189,3.770932754880694,SentiLink,Unknown,Unknown,1996.0,Unknown,Unknown,Unknown,CA,Data Scientist,138.6968,111.06664,124.53225
+190,3.8,GA Telesis,FL,501 to 1000 employees,2002.0,Company - Private,Aerospace & Defense,$500 million to $1 billion (USD),FL,Other Analyst,138.6968,111.916756,126.021095
+191,3.1,"Qualifacts Systems, Inc.",TN,201 to 500 employees,2002.0,Company - Private,Information Technology,$25 to $50 million (USD),TN,Other Analyst,135.12361,114.66798,124.50938
+192,4.1,Redstream Technology,NY,1 to 50 employees,2007.0,Company - Private,Information Technology,$5 to $10 million (USD),GA,Data Engineer,125.55986,107.162056,122.232124
+193,4.7,Strategic Employment Partners,CA,51 to 200 employees,2006.0,Company - Private,Business Services,$1 to $5 million (USD),CA,Data Scientist,120.70964,108.39262,117.670555
+194,3.7,CALIBRE Systems,VA,501 to 1000 employees,1989.0,Company - Private,Information Technology,$100 to $500 million (USD),VA,Other Analyst,138.6968,111.06664,124.53225
+195,3.3,Mathematica Policy Research,NJ,1001 to 5000 employees,1986.0,Company - Private,Business Services,$100 to $500 million (USD),DC,Data Scientist,135.12361,113.81786,123.020515
+196,2.7,Sterling National Bank,NY,1001 to 5000 employees,1966.0,Company - Public,Finance,$10+ billion (USD),NY,Manager/Director,135.12361,113.81786,123.020515
+197,4.5,Eliassen Group,MA,1001 to 5000 employees,1989.0,Company - Private,Business Services,$100 to $500 million (USD),GA,Data Scientist,137.083,112.29722,122.86277
+198,5.0,"Edison Software, Inc.",CA,51 to 200 employees,1996.0,Company - Private,Information Technology,$1 to $5 million (USD),CA,Data Scientist,133.63074,112.29722,122.86277
+199,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+200,4.3,"ConsultNet, LLC",UT,201 to 500 employees,1996.0,Company - Private,Business Services,$50 to $100 million (USD),UT,Data Scientist,137.083,111.06664,124.53225
+201,2.3,UPM Pharmaceutical Inc,TN,51 to 200 employees,1996.0,Contract,Unknown,Unknown / Non-Applicable,TN,Other Scientist,135.12361,113.81786,123.020515
+202,5.0,HireResources a Tailored Solutions Company (WO),CT,Unknown,2002.0,Company - Private,Business Services,Unknown / Non-Applicable,VA,Data Scientist,133.63074,113.147316,124.35163
+203,5.0,Jobot,CA,51 to 200 employees,2018.0,Company - Private,Business Services,$25 to $50 million (USD),CA,Data Scientist,121.89137,107.08271,117.670555
+204,3.6,"Creative Circle, LLC",CA,201 to 500 employees,2002.0,Company - Public,Business Services,Unknown / Non-Applicable,TX,Data Scientist,134.06828,111.15429,129.5452
+205,4.1,NJF Global Holdings,United Kingdom,51 to 200 employees,2003.0,Company - Private,Business Services,$10 to $25 million (USD),NY,Data Engineer,138.6968,111.916756,123.56693
+206,5.0,Alector,CA,51 to 200 employees,2013.0,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,CA,Manager/Director,121.89137,107.08271,117.670555
+207,4.2,GTN Technical Staffing,TX,201 to 500 employees,2000.0,Company - Private,Business Services,$25 to $50 million (USD),AZ,Data Scientist,138.6968,111.06664,124.53225
+208,4.7,"Steel Point Solutions, LLC",MD,1 to 50 employees,2013.0,Other Organization,Information Technology,Unknown / Non-Applicable,VA,Data Scientist,121.89137,107.08271,117.670555
+209,4.2,The Church of Jesus Christ of Latter-day Saints,UT,10000+ employees,1996.0,Nonprofit Organization,Non-Profit,Unknown / Non-Applicable,UT,Data Engineer,138.6968,111.06664,124.53225
+210,3.3,Miracle Software Systems,MI,51 to 200 employees,1994.0,Company - Private,Information Technology,$50 to $100 million (USD),Michigan,Data Scientist,135.12361,113.81786,123.020515
+211,3.8,Novartis,Switzerland,10000+ employees,1996.0,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),MA,Data Scientist,138.6968,111.06664,124.53225
+212,2.9,Pharmavite,CA,1001 to 5000 employees,1971.0,Company - Private,Manufacturing,$1 to $2 billion (USD),CA,Other Scientist,135.12361,113.81786,123.020515
+213,4.8,IGNW,OR,201 to 500 employees,2015.0,Company - Private,Information Technology,$25 to $50 million (USD),TX,Data Engineer,121.89137,107.08271,117.670555
